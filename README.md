@@ -1,4 +1,4 @@
-# NY Times Articles
+# NY Times Articles - Assessment
 
 A modern web application for browsing and searching popular articles from The New York Times API.
 
