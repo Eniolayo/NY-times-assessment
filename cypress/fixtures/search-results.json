@@ -1,0 +1,65 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "num_results": 1,
+    "results": [
+        {
+            "uri": "nyt://article/3840c304-d3cd-56c3-932c-a7f9bc2c0c62",
+            "url": "https://www.nytimes.com/2025/02/26/arts/television/michelle-trachtenberg-dead.html",
+            "id": 100000010014258,
+            "asset_id": 100000010014258,
+            "source": "New York Times",
+            "published_date": "2025-02-26",
+            "updated": "2025-02-27 20:27:23",
+            "section": "Arts",
+            "subsection": "Television",
+            "nytdsection": "arts",
+            "adx_keywords": "Deaths (Obituaries);Actors and Actresses;Television;Trachtenberg, Michelle",
+            "column": null,
+            "byline": "By Alex Williams and Michael Levenson",
+            "type": "Article",
+            "title": "Test Search Result",
+            "abstract": "This is a test search result abstract",
+            "des_facet": [
+                "Deaths (Obituaries)",
+                "Actors and Actresses",
+                "Television"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Trachtenberg, Michelle"
+            ],
+            "geo_facet": [],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The actress Michelle Trachtenberg at an Oscar party in Los Angeles in 2020.",
+                    "copyright": "Kurt Krieger/Corbis, via Getty Images",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/02/28/multimedia/26Trachtenberg--pjbf-print1/26Trachtenberg--pjbf-thumbStandard.jpg",
+                            "format": "StandardThumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/02/28/multimedia/26Trachtenberg--pjbf-print1/26Trachtenberg--pjbf-print1-mediumThreeByTwo210-v2.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/02/28/multimedia/26Trachtenberg--pjbf-print1/26Trachtenberg--pjbf-print1-mediumThreeByTwo440-v2.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}

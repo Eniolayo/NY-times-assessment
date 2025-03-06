@@ -1,0 +1,68 @@
+{
+    "status": "OK",
+    "copyright": "Copyright (c) 2025 The New York Times Company. All Rights Reserved.",
+    "num_results": 20,
+    "results": [
+        {
+            "uri": "nyt://article/f6a45e9b-1f77-5f75-b538-3e95c72a5db6",
+            "url": "https://www.nytimes.com/2025/02/27/us/gene-hackman-wife-dead-new-mexico.html",
+            "id": 100000010015857,
+            "asset_id": 100000010015857,
+            "source": "New York Times",
+            "published_date": "2025-02-27",
+            "updated": "2025-02-28 02:36:21",
+            "section": "U.S.",
+            "subsection": "",
+            "nytdsection": "u.s.",
+            "adx_keywords": "Actors and Actresses;Deaths (Fatalities);Hackman, Gene;Arakawa, Betsy (1959-2025);New Mexico;Santa Fe (NM)",
+            "column": null,
+            "byline": "By Julia Jacobs and Ali Watkins",
+            "type": "Article",
+            "title": "Test Article Title",
+            "abstract": "This is the article abstract",
+            "des_facet": [
+                "Actors and Actresses",
+                "Deaths (Fatalities)"
+            ],
+            "org_facet": [],
+            "per_facet": [
+                "Hackman, Gene",
+                "Arakawa, Betsy (1959-2025)"
+            ],
+            "geo_facet": [
+                "New Mexico",
+                "Santa Fe (NM)"
+            ],
+            "media": [
+                {
+                    "type": "image",
+                    "subtype": "photo",
+                    "caption": "The house owned by actor Gene Hackman and his wife, Betsy Arakawa.",
+                    "copyright": "Roberto E. Rosales/Associated Press",
+                    "approved_for_syndication": 1,
+                    "media-metadata": [
+                        {
+                            "url": "https://static01.nyt.com/images/2025/02/28/multimedia/28xp-hackman-wwk-htpg/28xp-hackman-wwk-htpg-thumbStandard.jpg",
+                            "format": "StandardThumbnail",
+                            "height": 75,
+                            "width": 75
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/02/28/multimedia/28xp-hackman-wwk-htpg/28xp-hackman-wwk-htpg-mediumThreeByTwo210.jpg",
+                            "format": "mediumThreeByTwo210",
+                            "height": 140,
+                            "width": 210
+                        },
+                        {
+                            "url": "https://static01.nyt.com/images/2025/02/28/multimedia/28xp-hackman-wwk-htpg/28xp-hackman-wwk-htpg-mediumThreeByTwo440.jpg",
+                            "format": "mediumThreeByTwo440",
+                            "height": 293,
+                            "width": 440
+                        }
+                    ]
+                }
+            ],
+            "eta_id": 0
+        }
+    ]
+}
